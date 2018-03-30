@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://www.logospike.com/wp-content/uploads/2015/11/Z_Logo_01.jpg" pltv-name="ZAMPFLIX.COM" pltv-description="FILMES E SERIES" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="ZAMPFLIX.COM" pltv-site="www.zampfli.com" pltv-email="zampflix@gmail.com"
+
+
+################## filmes ########################
+
+#EXTINF:-1 tvg-logo="http://www.itaucinemas.com.br/_img/_filmes/2343_capa.jpg?A-Chegada" group-title="Filmes" pltv-subgroup="2017", A CHEGADA
+https://docs.google.com/file/d/1lq2BMLRIthguuH_v_AOvwrEPXf9QFGaA/preview
