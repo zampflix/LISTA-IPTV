@@ -1,11 +1,19 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://www.logospike.com/wp-content/uploads/2015/11/Z_Logo_01.jpg" pltv-name="ZAMPFLIX.COM" pltv-description="FILMES E SERIES" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="ZAMPFLIX.COM" pltv-site="www.zampfli.com" pltv-email="zampflix@gmail.com"
+#PLAYLISTV: pltv-logo="http://www.logospike.com/wp-content/uploads/2015/11/Z_Logo_01.jpg" pltv-name="ZAMPFLIX.COM" pltv-description="FILMES E SERIES" pltv-cover="https://seriestorrent.tv/wp-content/uploads/2016/10/filmes-background-1.jpg" pltv-author="ZAMPFLIX.COM" pltv-site="www.zampfli.com" pltv-email="zampflix@gmail.com"
 
+################## Filmes ########################
 
-################## filmes ########################
-
-#EXTINF:-1 tvg-logo="http://www.itaucinemas.com.br/_img/_filmes/2343_capa.jpg?A-Chegada" group-title="Filmes" pltv-subgroup="2017", A CHEGADA
+#EXTINF:-1 tvg-logo="http://www.itaucinemas.com.br/_img/_filmes/2343_capa.jpg?A-Chegada" group-title="Filmes" pltv-subgroup="", A CHEGADA
 https://docs.google.com/file/d/1lq2BMLRIthguuH_v_AOvwrEPXf9QFGaA/preview
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3DvCpvLeVGjhHqg1YLmPmBx5Ea7.jpg" group-title="Filmes" pltv-subgroup="", VELOZES E FURIOSOS - DESAFIO EM TOKIO
-https://docs.google.com/file/d/13qwbcu283S7ptelMyuC917ihJBSTiCOf/preview
+#EXTINF:-1 tvg-logo="https://thumbs.web.sapo.io/?pic=http://mb.web.sapo.io/5627d33fd89556908e8d84db015f510d108105bb.jpg&W=950&H=1369&delay_optim=1&tv=2" group-title="Filmes" pltv-subgroup="", A GRANDE MURALHA
+https://docs.google.com/file/d/12dmYU1pNy1orlvGAG2ar210idh5xS5os/preview
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4UN_lQrkiUs/VgHnWyVIxVI/AAAAAAAAWfI/PXFZecZE-tc/s1600/Jurassic%2BWorld%2BO%2BMundo%2Bdos%2BDinossauros%2Bcapa%2Bcover.jpg" group-title="Filmes" pltv-subgroup="", JURASSIC PARCK - O MUNDO DOS DINOSSAUROS
+https://docs.google.com/file/d/1QRsO9G4dTL2x5cm0ZpsSNtU8Q96NDLvx/preview
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHOClvp.jpg" group-title="Filmes" pltv-subgroup="", ANIMAIS FANTÁSTICOS E ONDE ELES HABITAM
+https://docs.google.com/file/d/1PWVUaaONt7rQ4UUCHFkwcR4LUffVFTVw/preview
+
+################## Séries ########################
+
