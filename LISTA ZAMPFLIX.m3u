@@ -1,13 +1,16 @@
-#EXTM3U size="big"
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://www.logospike.com/wp-content/uploads/2015/11/Z_Logo_01.jpg" pltv-name="ZAMPFLIX.COM" pltv-description="FILMES E SERIES" pltv-cover="https://seriestorrent.tv/wp-content/uploads/2016/10/filmes-background-1.jpg" pltv-author="ZAMPFLIX.COM" pltv-site="www.zampfli.com" pltv-email="zampflix@gmail.com"
 
-#EXTINF:0 type="stream" tvg-logo="https://2.bp.blogspot.com/-Y2arDyZw4Uc/WRUST1PKCGI/AAAAAAAAHPM/zsp8ayyzv38d3k1HO_rhxk_qpBOA2mcUwCLcB/s1600/1.jpg",GREYS ANATOMY, subtitles="1 Temporada"
-https://drive.google.com/uc?id=0Bx8tjKEoJSjOQ1hfeXlpazJ3WUU&export=download
+################## Filmes ########################
 
-#EXTINF:0 type="playlist" tvg-logo="https://assets.papelpop.com/wp-content/uploads/2018/12/filmes-20191.jpg", LISTA DE FILMES
-#EXTBG: #000000
-http://bit.ly/Camillof
+#EXTINF:-1 tvg-logo="http://www.itaucinemas.com.br/_img/_filmes/2343_capa.jpg?A-Chegada" group-title="Filmes" pltv-subgroup="", A CHEGADA
+https://docs.google.com/file/d/1lq2BMLRIthguuH_v_AOvwrEPXf9QFGaA/preview
 
-#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="AÇÃO", A Justiceira, TESTE 1
-https://docs.google.com/file/d/0B_gbxhe3769nRjVVS0VaaTFFWGc/preview
+#EXTINF:-1 tvg-logo="https://thumbs.web.sapo.io/?pic=http://mb.web.sapo.io/5627d33fd89556908e8d84db015f510d108105bb.jpg&W=950&H=1369&delay_optim=1&tv=2" group-title="Filmes" pltv-subgroup="", A GRANDE MURALHA
+https://docs.google.com/file/d/12dmYU1pNy1orlvGAG2ar210idh5xS5os/preview
 
-#######https://docs.google.com/file/d/1v7WtJRQHpxvWKyliYe-Qzo3lf0UPYmd8/preview
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4UN_lQrkiUs/VgHnWyVIxVI/AAAAAAAAWfI/PXFZecZE-tc/s1600/Jurassic%2BWorld%2BO%2BMundo%2Bdos%2BDinossauros%2Bcapa%2Bcover.jpg" group-title="Filmes" pltv-subgroup="", JURASSIC PARCK - O MUNDO DOS DINOSSAUROS
+https://docs.google.com/file/d/1QRsO9G4dTL2x5cm0ZpsSNtU8Q96NDLvx/view
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHOClvp.jpg" group-title="Filmes" pltv-subgroup="", ANIMAIS FANTÁSTICOS E ONDE ELES HABITAM
+https://docs.google.com/file/d/1PWVUaaONt7rQ4UUCHFkwcR4LUffVFTVw/preview
